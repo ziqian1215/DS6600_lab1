@@ -5,6 +5,7 @@ I choose GNU General Public License v3.0 (GPL-3.0) because the premissions conta
 
 If not included any license at all, people could read the repository, but they wouldn’t have legal permission to use, modify, or redistribute the code.
 
+```text
 # Environments
 .env
 .envrc
